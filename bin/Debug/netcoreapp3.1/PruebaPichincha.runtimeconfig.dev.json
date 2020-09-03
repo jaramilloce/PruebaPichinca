@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Edizzon\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Edizzon\\.nuget\\packages"
+    ]
+  }
+}
