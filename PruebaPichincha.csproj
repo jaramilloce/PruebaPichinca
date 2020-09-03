@@ -13,7 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Dto\" />
     <Folder Include="Repositorio\" />
     <Folder Include="Servicios\" />
     <Folder Include="Ruteador\" />
